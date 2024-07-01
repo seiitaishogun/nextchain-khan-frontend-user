@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_188" data-name="사각형 188" width="34.531" height="37.17" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="icon_체크리스트" transform="translate(0 9.463)">
+    <rect id="사각형_122" data-name="사각형 122" width="60" height="60" transform="translate(0 -9.463)" fill="#fff"/>
+    <g id="그룹_211" data-name="그룹 211" transform="translate(12.734 1.951)">
+      <rect id="사각형_182" data-name="사각형 182" width="9.858" height="1.344" transform="translate(4.248 5.976)" fill="#191818"/>
+      <rect id="사각형_183" data-name="사각형 183" width="19.716" height="1.344" transform="translate(4.248 8.962)" fill="#191818"/>
+      <rect id="사각형_184" data-name="사각형 184" width="19.716" height="1.344" transform="translate(4.248 11.948)" fill="#191818"/>
+      <rect id="사각형_185" data-name="사각형 185" width="17.316" height="1.344" transform="translate(4.248 14.933)" fill="#191818"/>
+      <rect id="사각형_186" data-name="사각형 186" width="7.643" height="1.344" transform="translate(4.248 31.698)" fill="#191818"/>
+      <path id="패스_3326" data-name="패스 3326" d="M0,0V37.17H28.213v-13H26.87V35.827H1.344V1.344H21.286L26.87,6.927V13.7h1.344V6.371L21.843,0Z" transform="translate(0 0)" fill="#191818"/>
+      <path id="패스_3327" data-name="패스 3327" d="M76.627,8.9H69.979V2.25h1.343v5.3h5.3Z" transform="translate(-49.086 -1.578)" fill="#191818"/>
+      <g id="그룹_210" data-name="그룹 210">
+        <g id="그룹_209" data-name="그룹 209" clip-path="url(#clip-path)">
+          <path id="패스_3328" data-name="패스 3328" d="M50.909,63.667a.669.669,0,0,1-.475-.2L45.2,58.234a.672.672,0,0,1,0-.95L58.632,43.849a.692.692,0,0,1,.95,0l5.237,5.236a.671.671,0,0,1,0,.95L51.383,63.47a.669.669,0,0,1-.475.2m-4.286-5.908,4.286,4.286L63.394,49.56l-4.287-4.286Z" transform="translate(-31.566 -30.625)" fill="#191818"/>
+          <rect id="사각형_187" data-name="사각형 187" width="19" height="1.344" transform="translate(16.249 29.277) rotate(-45)" fill="#191818"/>
+          <path id="패스_3329" data-name="패스 3329" d="M95.254,47.944l-6.186-6.187.475-.475a4.374,4.374,0,0,1,6.186,6.186ZM91.021,41.81l4.18,4.181a3.032,3.032,0,0,0-4.18-4.181" transform="translate(-62.476 -28.059)" fill="#191818"/>
+          <path id="패스_3330" data-name="패스 3330" d="M50.907,96.792H45V90.885h1.344v4.564h4.564Z" transform="translate(-31.564 -63.751)" fill="#191818"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
